@@ -1,0 +1,7 @@
+streamlit
+pandas
+fpdf
+rapidfuzz
+google-generativeai
+groq
+colorama
