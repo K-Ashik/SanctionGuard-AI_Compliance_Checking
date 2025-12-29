@@ -2,7 +2,7 @@
 
 **SanctionGuard** is an AI-powered compliance platform that replaces traditional "keyword matching" with a multi-agent reasoning system. Instead of simply flagging a name, it convenes a digital tribunal to debate the risk, drastically reducing false positives.
 
-[SanctionsGuard](https://github.com/user-attachments/assets/d9943a7c-46d8-4a16-9926-39f8f49fdcb7)
+[SanctionsGuard](SanctionsGuard.jpg)
 
 
 ## 🚀 Key Features
